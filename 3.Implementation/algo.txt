@@ -1,0 +1,64 @@
+
+public class DT 
+{
+	public static String crop_name(String crop_name) 
+	{		String temp="";
+					
+				return temp;
+		}
+	
+	public static String Season(int val) 
+	{		String temp="";
+					if(val>=0 && val <=1)
+					{
+						temp="40-60";
+					}
+				   else if(val>=1 && val<=2)
+					{
+					temp="61-80";
+					}
+					 else if(val>=2 && val<=3)
+					{
+					temp="81-100";
+					}
+				return temp;
+		}
+		public static String pH_level(int val) 
+		{		String temp="";
+					if(val>=0 && val <=3)
+					{
+						temp="0-3";
+					}
+				   else if(val>=4 && val<=6)
+					{
+					temp="4-6";
+					}
+					 else if(val>=7 && val<=9)
+					{
+					temp="7-9";
+					}
+				return temp;
+		}
+		
+		public static String Soil_type(int val) 
+		{		String temp="";
+					if(val>=60 && val <=90)
+					{
+						temp="60-90";
+					}
+				   else if(val>=91 && val<=120)
+					{
+					temp="91-120";
+					}
+					 else if(val>=121 && val<=139)
+					{
+					temp="121-139";
+					}
+					else if(val>=140 && val<=160)
+					{
+					temp="140-160";
+					}
+				return temp;
+		}
+		
+}
