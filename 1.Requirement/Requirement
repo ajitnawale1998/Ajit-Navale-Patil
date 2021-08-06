@@ -76,3 +76,64 @@ nearest location of the pest dealer to the farmer.
 These requirements are neither stated by the customer nor expected. But to achieve total customer
 satisfaction the developer may include certain requirements which enhance the functionalities of the
 product.
+
+
+3 System Requirements
+3.3.1 Hardware Requirements
+1. System : Pentium IV 2.4 GHz.
+2. Hard Disk : 120 GB.
+3. Ram : 512 Mb.
+.3.2 Software Requirements
+1. Operating system : Windows 7/8/10.
+2. Coding Language : JAVA
+3. IDE : Eclipse
+4. Database : MYSQL
+2.4 Functional Requirements
+ 
+4 Functional requirements are those requirements which deals with what the system should do or pro-
+vide the users.
+
+• The application is user friendly.
+• It provides an easy interface to user.
+• The accessibility or response time of the application should be fast.
+• Performance of the system is appropriate.
+• The system provides the nearby shops location.
+Non-Functional Requirements
+Non-functional requirements are those requirement which elaborates the performance characteristics
+of the system and define the constraints on how the system do so.
+2.5.1 Performance Requirement
+• System can produce results faster on 4GB of RAM.
+• It may take more time for peak loads at main node.
+
+• The system will be available 24 by 7 hr. Once there is a fatal error, the system will provide under-
+standable feed back to the user.
+
+2.5.2 Safety Requirements
+• Only administrators have access to the database of each individual user.
+• All data will be backed-up every day automatically and also the system administrator can back-up
+the data as a function for him.
+• This makes it easier to install and updates new functionality if required.
+• For the safety purpose backup of the database must be required.
+2.5.3 Security Requirements
+• Our System is being developed in Java. Java is an object oriented programming language and shall
+be easy to maintain. The system is designed in modules where errors can be detected and fixed easily.
+• For the security purposes and to avoid illegal use of the system, while using
+
+2.5.4 Availability
+• The system shall be available during 24 hours of a day.
+2.5.5 Usability
+• The system is designed keeping in mind the usability issues considering the end-users who are
+developers/programmers. It provides detailed help which would lead to better and faster learning.
+Navigation of system is easy.
+2.5.6 Consistency
+• Uniformity in layout, screens, Menus, colours scheme, format.
+2.5.7 Performance
+• The performance of the system should be fast and as per user requirement. From this system we will
+get expected outcome in less time and less space since efficiency is higher. Speed is totally depending
+on the response of the database and connection type.
+2.5.8 Reliability
+• Protection of data from malicious attack or unauthorized access.
+2.5.9 Security
+• The system provides security to the randomly generated private key by performing encryption to
+it for encrypting patient data and thus protects from other nodes in the network. The network is free
+from malicious node and misbehaving node attacks.
