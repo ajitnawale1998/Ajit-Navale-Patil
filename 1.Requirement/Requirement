@@ -40,7 +40,7 @@ of tests must be conducted to validate the functions, performance and constraint
 section because completing its demands through understanding of software requirement, something
 that we often do not at this stage. Yet, the specification of validation criteria acts as an implicit review
 of all requirements. It is essential that time and attention to be given to this section.
-Normal Requirement
+2.1 Normal Requirement
 • VNR1: The system collects the information of the farmer using registration form.
 • VNR2: After Registration user can log in into portal.
 • VNR3: The input data should be successfully accepted.
