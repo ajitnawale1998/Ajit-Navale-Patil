@@ -1,1 +1,78 @@
+Requirement Specification:-
+Requirement specification describes the function and performance of the computer based system
+and constraints which govern its development. It can be a written document, a set of graphical models,
+a collection of scenarios, or any combination of above.
+1 Requirement Specification
+Requirement specification describes the function and performance of the computer based system
+and constraints which govern its development. It can be a written document, a set of graphical models,
+a collection of scenarios, or any combination of above.
+These are of 3 types:
+1.1 Normal Requirements
+These are the requirement which are clearly state by the customer so all these requirements will be
+present in the project for customer satisfaction.
+• N1 : Collect the information of farmer.
+• N2: Every user should easily access the web portal.
+• N3: Correct input data should be entered by farmer.
+• N4: Correct prediction to the farmers regarding crop is given properly.
+• N5: Every farmer should get the crop cultivation process in audio and video formats.
+• N6: Every farmer gets the information about the disease and fertilizers for curing them based
+on the symptoms provided by the farmer.
+• N7: Every farmer gets proper location about fertilizers and pesticide shops and dealers.
 
+1.2 Expected Requirements
+These requirements are implicit type of requirements, these requirements are not clearly stated by
+customer but implicitly comes during system design.
+• E1: Registration form should be designed.
+• E2: Valid input are to be taken.
+• E3: The input data is stored in the data set.
+• E4: Prediction of crop is done with the ML algorithm.
+• E5: Cultivation process link are provided in different formats.
+• E6: Location of the pest dealers are provided using Machine Learning algorithm.
+
+1.3 Exited Requirements
+These requirements are neither stated by the customer nor expected. But to achieve total customer
+satisfaction the developer may include certain requirements which enhance the functionalities of the
+product.
+2 Validation of Requirement
+A validation criterion is probably the most important point, the most often neglected section of
+software requirement specification. How do we recognize a successful implementation? What classes
+of tests must be conducted to validate the functions, performance and constraints? We neglect this
+section because completing its demands through understanding of software requirement, something
+that we often do not at this stage. Yet, the specification of validation criteria acts as an implicit review
+of all requirements. It is essential that time and attention to be given to this section.
+Normal Requirement
+• VNR1: The system collects the information of the farmer using registration form.
+• VNR2: After Registration user can log in into portal.
+• VNR3: The input data should be successfully accepted.
+
+• VNR4: The system will execute the classification algorithm and then shows the correct predic-
+tion about the crop to the farmer.
+
+• VNR5: The system will provide the links and transcriptions about the video and audio.
+• VNR6: The system provides the list of symptoms using checkbox and farmer will select the
+
+appropriate checkbox foe the symptoms information and appropriate fertilizers will be recom-
+mended by the system associated with symptoms.
+
+• VNR7: The system gives proper location of the fertilizers and pesticides shops and dealers
+using the farmers location.
+
+2.2 Expected Requirement
+• VER1 : The proper Registration form is designed using HTML and CSS. using this form the
+customer will be able to login.
+• VER2 :After giving unique username and password which will match with the username and
+password provided at the time of registration. After this the user can be abl to login successfully.
+• VER3 : The available dataset is provided by Kaggle.com so we can extract the required field
+from this dataset such as Weather conditions , Soil type and PH levels and Crops based on areas.
+• VER4 : The classification algorithm- Random Forest Algorithm (RFA) will be used to classify
+the soil type into different levels(Low ,Medium,High) according to the range of the soil the
+crops will be recommended to the farmer.
+• VER5 : Cultivation process link are provided in audio and video formats. The customer will be
+redirected to the standard links of related cultivation process format.
+• VER6 : Machine Learning algorithm-K-nearest neighbour algorithm is used to provide the
+nearest location of the pest dealer to the farmer.
+
+2.3 Excited Requirement
+These requirements are neither stated by the customer nor expected. But to achieve total customer
+satisfaction the developer may include certain requirements which enhance the functionalities of the
+product.
