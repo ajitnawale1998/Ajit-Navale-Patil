@@ -90,6 +90,8 @@ product.
 4. Database : MYSQL
 2.4 Functional Requirements
  
+ 
+ 
 4 Functional requirements are those requirements which deals with what the system should do or pro-
 vide the users.
 
@@ -98,15 +100,18 @@ vide the users.
 • The accessibility or response time of the application should be fast.
 • Performance of the system is appropriate.
 • The system provides the nearby shops location.
+
+
 Non-Functional Requirements
 Non-functional requirements are those requirement which elaborates the performance characteristics
 of the system and define the constraints on how the system do so.
 2.5.1 Performance Requirement
 • System can produce results faster on 4GB of RAM.
 • It may take more time for peak loads at main node.
-
 • The system will be available 24 by 7 hr. Once there is a fatal error, the system will provide under-
 standable feed back to the user.
+
+
 
 2.5.2 Safety Requirements
 • Only administrators have access to the database of each individual user.
@@ -121,18 +126,23 @@ be easy to maintain. The system is designed in modules where errors can be detec
 
 2.5.4 Availability
 • The system shall be available during 24 hours of a day.
+
 2.5.5 Usability
 • The system is designed keeping in mind the usability issues considering the end-users who are
 developers/programmers. It provides detailed help which would lead to better and faster learning.
 Navigation of system is easy.
+
 2.5.6 Consistency
 • Uniformity in layout, screens, Menus, colours scheme, format.
+
 2.5.7 Performance
 • The performance of the system should be fast and as per user requirement. From this system we will
 get expected outcome in less time and less space since efficiency is higher. Speed is totally depending
 on the response of the database and connection type.
+
 2.5.8 Reliability
 • Protection of data from malicious attack or unauthorized access.
+
 2.5.9 Security
 • The system provides security to the randomly generated private key by performing encryption to
 it for encrypting patient data and thus protects from other nodes in the network. The network is free
