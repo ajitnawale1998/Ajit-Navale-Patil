@@ -1,5 +1,5 @@
 # Ajit-Navale-Patil
-Research:-
+#Research:-
 1.Title: Agri – IoT: A Semantic Framework for Internet of Things-enabled Smart Farming Application.
 Author: Andreas Kamilaris, FengGaoy, Francesc X.Prenafeta-Boldu , Muhammad IntizarAliy 2016 European Union.
 These paper proposes Agri-IoT, a semantic framework for IoT based smart farming applica- tions, which supports reasoning over various heterogeneous sensor data streams in real-time.
