@@ -1,4 +1,4 @@
-Project Title:-Farmer Recomendation System
+Project Title:-Farmer Recomendation System                                                                        
 Abstract:-
        The main goal of these system is to achieve maximum yield rate of crop using land resource.
 Selection of crop yield is maximized by considering the proportion of nutrients present in the soil. In
