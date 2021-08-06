@@ -2,11 +2,13 @@ Requirement Specification:-
 Requirement specification describes the function and performance of the computer based system
 and constraints which govern its development. It can be a written document, a set of graphical models,
 a collection of scenarios, or any combination of above.
+
 1 Requirement Specification
 Requirement specification describes the function and performance of the computer based system
 and constraints which govern its development. It can be a written document, a set of graphical models,
 a collection of scenarios, or any combination of above.
 These are of 3 types:
+
 1.1 Normal Requirements
 These are the requirement which are clearly state by the customer so all these requirements will be
 present in the project for customer satisfaction.
@@ -33,6 +35,8 @@ customer but implicitly comes during system design.
 These requirements are neither stated by the customer nor expected. But to achieve total customer
 satisfaction the developer may include certain requirements which enhance the functionalities of the
 product.
+
+
 2 Validation of Requirement
 A validation criterion is probably the most important point, the most often neglected section of
 software requirement specification. How do we recognize a successful implementation? What classes
@@ -44,16 +48,12 @@ of all requirements. It is essential that time and attention to be given to this
 • VNR1: The system collects the information of the farmer using registration form.
 • VNR2: After Registration user can log in into portal.
 • VNR3: The input data should be successfully accepted.
-
 • VNR4: The system will execute the classification algorithm and then shows the correct predic-
 tion about the crop to the farmer.
-
 • VNR5: The system will provide the links and transcriptions about the video and audio.
 • VNR6: The system provides the list of symptoms using checkbox and farmer will select the
-
 appropriate checkbox foe the symptoms information and appropriate fertilizers will be recom-
 mended by the system associated with symptoms.
-
 • VNR7: The system gives proper location of the fertilizers and pesticides shops and dealers
 using the farmers location.
 
@@ -78,12 +78,14 @@ satisfaction the developer may include certain requirements which enhance the fu
 product.
 
 
-3 System Requirements
-3.3.1 Hardware Requirements
+3 System Requirements:-
+
+3.1 Hardware Requirements
 1. System : Pentium IV 2.4 GHz.
 2. Hard Disk : 120 GB.
 3. Ram : 512 Mb.
-.3.2 Software Requirements
+
+3.2 Software Requirements
 1. Operating system : Windows 7/8/10.
 2. Coding Language : JAVA
 3. IDE : Eclipse
@@ -92,7 +94,7 @@ product.
  
  
  
-4 Functional requirements are those requirements which deals with what the system should do or pro-
+4.1 Functional requirements are those requirements which deals with what the system should do or pro-
 vide the users.
 
 • The application is user friendly.
@@ -102,18 +104,17 @@ vide the users.
 • The system provides the nearby shops location.
 
 
-Non-Functional Requirements
+4.2 Non-Functional Requirements
 Non-functional requirements are those requirement which elaborates the performance characteristics
 of the system and define the constraints on how the system do so.
-2.5.1 Performance Requirement
+
+ Performance Requirement
 • System can produce results faster on 4GB of RAM.
 • It may take more time for peak loads at main node.
 • The system will be available 24 by 7 hr. Once there is a fatal error, the system will provide under-
 standable feed back to the user.
 
-
-
-2.5.2 Safety Requirements
+Safety Requirements
 • Only administrators have access to the database of each individual user.
 • All data will be backed-up every day automatically and also the system administrator can back-up
 the data as a function for him.
