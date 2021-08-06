@@ -9,3 +9,7 @@ using Machine Learning Technique. Here,Random Forest Algorithm is used for class
 prediction of crops and K-Nearest Neighbor Algorithm is used for recommending nearby shops using
 adjacent maps for buying and selling products to the farmers. Finally, using this system the farmers
 will have a well guided approach to begin with farming.
+
+![image](https://user-images.githubusercontent.com/68458509/128522899-5a5505ee-60b8-459d-be32-1e367d1e8c2a.png)
+
+
