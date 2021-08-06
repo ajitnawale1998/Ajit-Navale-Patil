@@ -124,3 +124,4 @@ Key sources and algorithms/modules used in these study are:
 Use in our system:
 Thus we analyzed that farmers or planters could use the technique to predict the future crop productivity but if needed then they should adopt alternative adaptive measures to maximize yield if the predictions fall below expectations and commercial viability.
 
+
