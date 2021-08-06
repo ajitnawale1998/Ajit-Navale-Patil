@@ -10,6 +10,9 @@ prediction of crops and K-Nearest Neighbor Algorithm is used for recommending ne
 adjacent maps for buying and selling products to the farmers. Finally, using this system the farmers
 will have a well guided approach to begin with farming.
 
+
+Architecture:-
+
 ![image](https://user-images.githubusercontent.com/68458509/128523019-1743e6e2-4be0-4b28-ac21-14edf77bcd50.png)
 
 
