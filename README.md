@@ -16,8 +16,8 @@ Architecture:-
 
 ![image](https://user-images.githubusercontent.com/68458509/128523019-1743e6e2-4be0-4b28-ac21-14edf77bcd50.png)
             
-            
-            The System architecture consist 6 modules first is farmers and dealers which will log in into the
+                                                                                                                                                                                      
+The System architecture consist 6 modules first is farmers and dealers which will log in into the
 system by registering their details. As soon as registration is completed, the admin will store their
 details in DB. With the help of AI, the weather can be predicted for the next few days. The farmer will
 enter the sand and monsoon type as an input if the given data is trained the RFA will make a decision by categorizing the sand quality into low, medium and high to classify the crops. This classification
